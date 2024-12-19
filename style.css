@@ -144,7 +144,7 @@ body {
     width: 50%;
 }
 
-.chamada-tela1 div button {
+.chamada-tela1 div a {
     background-color: rgb(172, 0, 0);
     border: none;
     width: 200px;
