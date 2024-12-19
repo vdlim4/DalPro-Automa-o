@@ -17,8 +17,6 @@ window.addEventListener('scroll', function () {
     }
 });
 
-
-
 var swiper = new Swiper(".swiper", {
     effect: "coverflow",
     grabCursor: true,
